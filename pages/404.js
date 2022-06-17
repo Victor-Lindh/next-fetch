@@ -7,7 +7,7 @@ const NullPage = () => {
       <div style={{ display: 'flex', flexDirection: 'column' }}>
         <p>No page here</p>
         <Link href='/'>
-          <a>Go back to the shadows</a>
+          <a>Go back to the shadows</a>sdkjahsdkajshd
         </Link>
       </div>
     </div>
